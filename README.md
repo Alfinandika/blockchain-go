@@ -1,5 +1,4 @@
-# blockchain-go
-Code your own blockchain in less than 200 lines of Go!
+# Code your own blockchain in less than 200 lines of Go!
 
 Deployment steps:
 - git clone https://github.com/Alfinandika/blockchain-go.git
